@@ -1,14 +1,10 @@
-# Lab 01 - IAM
-Lab para configuração de permissões no IAM, de acordo com boas práticas da AWS.
+Lab 01 - IAM
+Lab for non-IAM permissions configuration, in accordance with AWS best practices.
 
+1. User Creation
+In this part, we are going to create a user with administrator permissions for the AWS Console.
 
-### 1. Criação de Usuário
-
-Nesta parte, vamos criar um usuário com permissões de administrador pelo AWS Console.
-
-  1.1. Acesse o AWS Dashboard para IAM (https://console.aws.amazon.com/iam/home)
-  1.2. Clique em **Users**
-  1.3. Clique em **Add User**
+1.1. Access or AWS Dashboard for IAM (https://console.aws.amazon.com/iam/home) 1.2. Click on Users 1.3. Click on Add User
 
 ![Image 01](https://d2yblsmsldwfto.cloudfront.net/lab01/lab-01-iam-01.png)
 
